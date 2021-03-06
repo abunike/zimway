@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31da4861.chunk.css",
+    "main.js": "/static/js/main.e4265597.chunk.js",
+    "main.js.map": "/static/js/main.e4265597.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.db1676bb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.db1676bb.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.094a209e.chunk.js": "/static/js/2.094a209e.chunk.js",
+    "static/js/2.094a209e.chunk.js.map": "/static/js/2.094a209e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.31da4861.chunk.css.map": "/static/css/main.31da4861.chunk.css.map",
+    "static/js/2.094a209e.chunk.js.LICENSE.txt": "/static/js/2.094a209e.chunk.js.LICENSE.txt",
+    "static/media/Carnival.82d3e96a.jpg": "/static/media/Carnival.82d3e96a.jpg",
+    "static/media/Climate-Change.e36703de.jpg": "/static/media/Climate-Change.e36703de.jpg",
+    "static/media/Dele.4289ea8d.jpg": "/static/media/Dele.4289ea8d.jpg",
+    "static/media/chat.c5088a9e.png": "/static/media/chat.c5088a9e.png",
+    "static/media/App.css": "/static/media/fog.01bc9948.jpg",
+    "static/media/girl-workout.799890be.jpg": "/static/media/girl-workout.799890be.jpg",
+    "static/media/sheba.4f3c0795.jpg": "/static/media/sheba.4f3c0795.jpg",
+    "static/media/teethsmile.8a3dc01d.jpg": "/static/media/teethsmile.8a3dc01d.jpg",
+    "static/media/think-big.160b9df5.jpg": "/static/media/think-big.160b9df5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db1676bb.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.094a209e.chunk.js",
+    "static/css/main.31da4861.chunk.css",
+    "static/js/main.e4265597.chunk.js"
+  ]
+}
